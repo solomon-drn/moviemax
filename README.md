@@ -2,16 +2,16 @@
 
 A simple React + Vite app for searching and displaying movies using the TMDB API.
 
+🔗 **Live Website:** https://moviemax-gray.vercel.app/
+
 ## 🚀 Features
-- Search movies with live debounced input  
-- Display popular movies on load  
+- Live movie search with debounced input  
+- Popular movies shown on load  
 - Clean UI with reusable components  
 - Error + loading states  
-- Ready for Vercel deployment  
 
 ## 📘 What I Learned
 - Using React hooks (`useState`, `useEffect`)  
 - Debouncing search inputs  
-- Fetching APIs with error handling  
-- Environment variables in Vite (`VITE_`)  
-- Component structuring 
+- Fetching data from APIs  
+- Using environment variables in Vite (`VITE_`)
